@@ -1,6 +1,6 @@
 It was a dusty, hot afternoon as Jimbo Jonny walked into a fine Jackson, Tennesee saloon. It had been a very long trip from the gold mines out west and Jimbo was dragging-his-caboose tired. Jimbo was wearing his old worn out duster, his trusty hat and his boots that were about as tired as he was. On his right hip, as always, was strapped his 6 shooter.
 
-Jimbo left nigh two months ago after he recieved an urgent letter from his sister Anne. It read that that their little brother Bart was spending time with members of the infamous Tom Bell Gang.
+Jimbo left nigh two months ago after he received an urgent letter from his sister Anne. It read that that their little brother Bart was spending time with members of the infamous Tom Bell Gang.
 
 As Jimbo entered and his eyes began to adjust to the dark room, he was able to see the bar to his left, a bunch of empty tables and chairs in front of him and a piano against the wall. The bar tender said:
 
