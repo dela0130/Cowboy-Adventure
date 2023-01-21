@@ -15,3 +15,5 @@ At a loud clamour, three men came stumbled out from the back room into the main 
 Turning around, Jimbo noticed that one of these drunk men was his brother. That made these other two a part of the Tom Bell Gang and the one who spoke must have been Tom himself.
 
 What does Jimbo Johnny do next?
+
+[Get right to the point](/get-right-to-the-point.md)
