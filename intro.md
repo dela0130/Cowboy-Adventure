@@ -18,6 +18,7 @@ What does Jimbo Johnny do next?
 
 [Reach for the empty bottle, and respond with a snarky reply](/Reach_for_Bottle__Make_Snarky_Reply.md)
 
+[Finds help in unsuspecting places](/help_in_unsuspecting_places.md)
 
 
 
