@@ -4,7 +4,9 @@ Jimbo felt his stomach drop, sweat dripping down his brow. His gaze shifted to h
 
 “Tom Bell! I haven’t seen you in a beat!” 
 
-Tom whipped his head towards the bar where the bartender caught his attention. He had a wide grin plastered on his face, which didn’t quite reach his eyes.
+Tom whipped his head towards the bar where the bartender caught his attention. He had a wide grin plastered on his face, which didn’t quite reach his eyes. 
+
+“What? I was just here yest-“
 
 “This fine man was just talking about how he was passing through town and trying to make some friends along the way, weren’t you…?”
 
