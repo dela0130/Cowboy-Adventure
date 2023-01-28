@@ -23,4 +23,6 @@ What does Jimbo Johnny do next?
 
 [Get right to the point](/get-right-to-the-point.md)
 
+[Get help in an unexpected place](/help_in_unsuspecting_places.md)
+
 
