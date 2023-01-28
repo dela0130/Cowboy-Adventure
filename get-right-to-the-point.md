@@ -10,3 +10,6 @@ Tom gave the two a glance before hitting one of the empty bottles to show his ag
 
 "You cannot just come to my bar and try to flee with one of my men."
 
+Jimbo shoved Bart behind him, and reached for his gun, glaring at Tom. He was ready for a duel. 
+
+[Jimbo and Tom are ready for a duel](/guns_are_blazing.md)
