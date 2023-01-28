@@ -6,7 +6,7 @@ As Jimbo entered and his eyes began to adjust to the dark room, he was able to s
 
 "Good day. What can I get for you."
 
-"Whiskey" said Jimbo, as he sat down at one of the stools. As his eyes fully adjusted, Jimbo saw some empty bottles on the bar within arms reach. A fleeting thought passed through Jimbo's mind that the bar tender must be somewhat lazy to leave these out all night. 
+"Whiskey" said Jimbo, as he sat down at one of the stools. As his eyes fully adjusted, Jimbo saw some empty bottles on the bar within arms reach. A fleeting thought passed through Jimbo's mind that the bartender must be somewhat lazy to leave these out all night. 
 
 At a loud clamour, three men came stumbled out from the back room into the main room with Jimbo. Clearly drunk, they didn't notice Jimbo at first. They were loudly talking and shuffling towards the bar. One of them stammered:
 
@@ -15,3 +15,12 @@ At a loud clamour, three men came stumbled out from the back room into the main 
 Turning around, Jimbo noticed that one of these drunk men was his brother. That made these other two a part of the Tom Bell Gang and the one who spoke must have been Tom himself.
 
 What does Jimbo Johnny do next?
+
+
+[Reach for the empty bottle, and respond with a snarky reply](/Reach_for_Bottle__Make_Snarky_Reply.md)
+
+[Play the con artist](/conman.md)
+
+[Get right to the point](/get-right-to-the-point.md)
+
+
