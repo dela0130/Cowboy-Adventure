@@ -9,4 +9,4 @@ Hearing his brother's voice, Bart suddenly had his eyes open and looked at Jimbo
 Tom gave the two a glance before hitting one of the empty bottles to show his aggression. Glass bottle shattered on the floor with a loud noise.
 
 "You cannot just come to my bar and try to flee with one of my men."
-
+"The hell I can't!" [Reach for your 6-shooter](/shoot_tom.md)

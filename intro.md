@@ -25,4 +25,4 @@ What does Jimbo Johnny do next?
 
 [Get help in an unexpected place](/help_in_unsuspecting_places.md)
 
-
+[Reach for your 6-shooter](/shoot_tom.md)
