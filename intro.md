@@ -16,4 +16,8 @@ Turning around, Jimbo noticed that one of these drunk men was his brother. That 
 
 What does Jimbo Johnny do next?
 
+
+[Play the con artist](/conman.md)
+
 [Get right to the point](/get-right-to-the-point.md)
+
