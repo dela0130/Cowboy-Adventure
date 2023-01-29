@@ -10,3 +10,7 @@ Tom gave the two a glance before hitting one of the empty bottles to show his ag
 
 "You cannot just come to my bar and try to flee with one of my men."
 
+Things could get messy, Jimbo thought. He didn't feel like pulling out his revolver today, but he kept it handy just in case.
+
+[Peaceful](/peaceful.md)
+[Violent](violent.md)
