@@ -1,6 +1,6 @@
 Jimbo glanced at Bart. Bart had gone white as a ghost and seemed to be signaling to Jimbo to keep his mouth shut. 
 
-Ignoring the signal, Jimbo looked at Tom and said: "Your bar? If it is your bar, get me a whiskey, and if it's your bar..." 
+Ignoring the signal, Jimbo looked at Tom and said: "Your bar? If it is your bar, get me a tequila, and if it's your bar..." 
 
 Jimbo slowly stood up, slowly grabbing an empty bottle, he said "...why don't you clean it up?"
 

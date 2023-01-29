@@ -10,3 +10,6 @@ Tom gave the two a glance before hitting one of the empty bottles to show his ag
 
 "You cannot just come to my bar and try to flee with one of my men."
 
+[Play the con artist](/conman.md)
+
+[Reach for the empty bottle, and respond with a snarky reply](/Reach_for_Bottle__Make_Snarky_Reply.md)
