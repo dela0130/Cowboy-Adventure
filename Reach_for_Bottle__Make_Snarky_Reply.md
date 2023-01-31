@@ -15,3 +15,6 @@ Jimbo stood their, in one hand he had the glass bottle, and in the other his han
 As Anne came in to hug Jimbo, Tom disgustedly yelled "Alright guys let's get out of here, we've got business".
 
 Over her shoulder, Jimbo noticed Tom sneering at Jimbo as he walked by. Tom said loudly as he left: "Bart, you never said you had a brother."
+
+"No one looks at me like that!" [Reach for your 6-shooter](/shoot_tom.md)
+
