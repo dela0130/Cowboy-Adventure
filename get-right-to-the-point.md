@@ -10,7 +10,17 @@ Tom gave the two a glance before hitting one of the empty bottles to show his ag
 
 "You cannot just come to my bar and try to flee with one of my men."
 
-Respond with "The hell I can't!" and [Just shoot him without dueling](/shoot_tom.md)
+How does Jimbo respond to that?
+
+[Play the con artist](/conman.md)
+
+Or
+
+[Reach for the empty bottle, and respond with a snarky reply](/Reach_for_Bottle__Make_Snarky_Reply.md)
+
+Or
+
+Respond with "The hell I can't!" and [just shoot him without dueling](/shoot_tom.md)
 
 Or
 
@@ -23,3 +33,4 @@ Or
 Or yell "Let's duel!" and protect Bart by getting in front of him.
 
 [Get ready for a duel](/guns_are_blazing.md)
+

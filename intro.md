@@ -6,7 +6,7 @@ As Jimbo entered and his eyes began to adjust to the dark room, he was able to s
 
 "Good day. What can I get for you."
 
-"Whiskey" said Jimbo, as he sat down at one of the stools. As his eyes fully adjusted, Jimbo saw some empty bottles on the bar within arms reach. A fleeting thought passed through Jimbo's mind that the bartender must be somewhat lazy to leave these out all night. 
+"A shot of Tequila" said Jimbo, as he sat down at one of the stools. As his eyes fully adjusted, Jimbo saw some empty bottles on the bar within arms reach. A fleeting thought passed through Jimbo's mind that the bartender must be somewhat lazy to leave these out all night. 
 
 At a loud clamour, three men came stumbled out from the back room into the main room with Jimbo. Clearly drunk, they didn't notice Jimbo at first. They were loudly talking and shuffling towards the bar. One of them stammered:
 
@@ -16,17 +16,14 @@ Turning around, Jimbo noticed that one of these drunk men was his brother. That 
 
 What does Jimbo Johnny do next?
 
-
-[Reach for the empty bottle, and respond with a snarky reply](/Reach_for_Bottle__Make_Snarky_Reply.md)
+[Get right to the point](/get-right-to-the-point.md)
 
 [Play the con artist](/conman.md)
 
-[Get right to the point](/get-right-to-the-point.md)
+[Reach for the empty bottle, and respond with a snarky reply](/Reach_for_Bottle__Make_Snarky_Reply.md)
 
-[Get help in an unexpected place](/help_in_unsuspecting_places.md)
-
-[Hope someone saves you] (/help_in_unsuspecting_places.md) 
+[Hope someone saves him] (/help_in_unsuspecting_places.md) 
 
 [Get ready for a fight] (/guns_are_blazing.md)
 
-[Reach for your 6-shooter](/shoot_tom.md)
+[Reach for your 6-shooter!](/shoot_tom.md)
