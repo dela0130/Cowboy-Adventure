@@ -12,4 +12,7 @@ Tom gave the two a glance before hitting one of the empty bottles to show his ag
 
 Jimbo shoved Bart behind him, and reached for his gun, glaring at Tom. He was ready for a duel. 
 
-[Jimbo and Tom are ready for a duel](/guns_are_blazing.md)
+"Let's duel!" [Get ready for a duel](/guns_are_blazing.md)
+
+"The hell I can't!" [Just shoot him without dueling](/shoot_tom.md)
+
