@@ -10,9 +10,16 @@ Tom gave the two a glance before hitting one of the empty bottles to show his ag
 
 "You cannot just come to my bar and try to flee with one of my men."
 
-Jimbo shoved Bart behind him, and reached for his gun, glaring at Tom. He was ready for a duel. 
+Respond with "The hell I can't!" and [Just shoot him without dueling](/shoot_tom.md)
 
-"Let's duel!" [Get ready for a duel](/guns_are_blazing.md)
+Or
 
-"The hell I can't!" [Just shoot him without dueling](/shoot_tom.md)
+[Try to be peaceful](/peaceful.md)
 
+Or 
+
+[Threaten Tom](violent.md)
+
+Or yell "Let's duel!" and protect Bart by getting in front of him.
+
+[Get ready for a duel](/guns_are_blazing.md)
