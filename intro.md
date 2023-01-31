@@ -25,4 +25,8 @@ What does Jimbo Johnny do next?
 
 [Get help in an unexpected place](/help_in_unsuspecting_places.md)
 
+[Hope someone saves you] (/help_in_unsuspecting_places.md) 
 
+[Get ready for a fight] (/guns_are_blazing.md)
+
+[Reach for your 6-shooter](/shoot_tom.md)

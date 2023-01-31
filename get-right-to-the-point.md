@@ -10,7 +10,16 @@ Tom gave the two a glance before hitting one of the empty bottles to show his ag
 
 "You cannot just come to my bar and try to flee with one of my men."
 
-Things could get messy, Jimbo thought. He didn't feel like pulling out his revolver today, but he kept it handy just in case.
+Respond with "The hell I can't!" and [Just shoot him without dueling](/shoot_tom.md)
 
-[Peaceful](/peaceful.md)
-[Violent](violent.md)
+Or
+
+[Try to be peaceful](/peaceful.md)
+
+Or 
+
+[Threaten Tom](violent.md)
+
+Or yell "Let's duel!" and protect Bart by getting in front of him.
+
+[Get ready for a duel](/guns_are_blazing.md)

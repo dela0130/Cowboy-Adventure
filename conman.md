@@ -27,3 +27,5 @@ The whole bar was watching in awe.
 "A deal is a deal." 
 
 Bart and the other man are holding him and dragging him out by his arms while Tom shamelessly thrashes about.
+
+"You know what, you're too dumb to live." [Reach for your 6-shooter](/shoot_tom.md)
