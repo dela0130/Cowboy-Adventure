@@ -9,4 +9,10 @@ Hearing his brother's voice, Bart suddenly had his eyes open and looked at Jimbo
 Tom gave the two a glance before hitting one of the empty bottles to show his aggression. Glass bottle shattered on the floor with a loud noise.
 
 "You cannot just come to my bar and try to flee with one of my men."
-"The hell I can't!" [Reach for your 6-shooter](/shoot_tom.md)
+
+Jimbo shoved Bart behind him, and reached for his gun, glaring at Tom. He was ready for a duel. 
+
+"Let's duel!" [Get ready for a duel](/guns_are_blazing.md)
+
+"The hell I can't!" [Just shoot him without dueling](/shoot_tom.md)
+
